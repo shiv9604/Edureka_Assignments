@@ -1,1 +1,1 @@
-# Edureka_Assignments
+# MERN_Stack_Course (Edureka_Assignments)
